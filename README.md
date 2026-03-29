@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiba</h1>
-<h3 align="center">A passionate computer science engineer from Pakistan</h3>
+<h3 align="center">A passionate CSE from Pakistan</h3>
 
 I'm Heba, a Computer Science student blending data, intelligence, and creativity.
 
@@ -9,8 +9,8 @@ If something sparks my curiosity, I dive into it and learn by building.
 
 💻 My current focus includes:
 
-Machine Learning (classification, regression, model evaluation)
-Data Science (data analysis, visualization, preprocessing)
+->Machine Learning (classification, regression, model evaluation)
+->Data Science (data analysis, visualization, preprocessing)
 3D Modeling (Blender, game assets, environments)
 Databases (ERD, normalization, SQL)
 
